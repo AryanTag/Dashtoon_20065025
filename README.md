@@ -1,7 +1,7 @@
 # Dashtoon_20065025
 ## **Deep Learning &amp; Art: Neural Style Transfer**
 Creating a deep learning model capable of adapting an existing work to resemble the aesthetic of any art.\
-The model is able to analyze the artistic style of the selected art and apply similar stylistic features to a new, original artwork, creating a piece that seems as though it could have been created by the artist themselves.\
+The model is able to analyze the artistic style of the selected art and apply similar stylistic features to a new, original artwork, creating a piece that seems as though it could have been created by the artist themselves.
 \
 \
 ## **Some examples**
@@ -35,9 +35,9 @@ The model is able to analyze the artistic style of the selected art and apply si
 
 ## Setting up and running notebook-
   ### 1. For running the notebook, you'll require a dataset. An example dataset I have shared which can be accessed by the google drive link below-
- \
+  \
  " https://drive.google.com/drive/folders/1itxe3YwOhKyL_a1c70-YBqwFImMXbN0Y?usp=sharing "
-\
+ \
 	### 2. Run this notebook on a GPU supported runtime since the NST task is very computationally expensive.
 
   ### 3. For runnning the book, make sure you are in the directory of the dataset where 'ls' in linux return the following folder structure-
@@ -52,7 +52,7 @@ The model is able to analyze the artistic style of the selected art and apply si
 \
 \
 
-============================================================
+============================================================\
 Aryan Tyagi
 20065025
 IIT BHU
