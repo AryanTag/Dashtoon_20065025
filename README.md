@@ -3,8 +3,6 @@
 Creating a deep learning model capable of adapting an existing work to resemble the aesthetic of any art.
 The model is able to analyze the artistic style of the selected art and apply similar stylistic features to a new, original artwork, creating a piece that seems as though it could have been created by the artist themselves.
 ## **Some examples**
-<img width="687" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/415a2371-d618-494b-b6e4-baceed1494f0">
-
 <img width="682" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/c2d9bdf1-8b1f-4b53-b71d-907ff45a9265">
 
 <img width="689" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/6477654e-67cf-40c0-aa17-53a389009c00">
@@ -12,6 +10,8 @@ The model is able to analyze the artistic style of the selected art and apply si
 <img width="690" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/cc2c704d-2b02-45b6-90c6-4d751dce0939">
 
 <img width="684" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/82863905-a016-4773-b73b-01a7b7be1a6a">
+
+<img width="687" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/415a2371-d618-494b-b6e4-baceed1494f0">
 
 
 ## **Installing dependencies**-
