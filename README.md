@@ -1,17 +1,20 @@
 # Dashtoon_20065025
-##**Deep Learning &amp; Art: Neural Style Transfer**
+## **Deep Learning &amp; Art: Neural Style Transfer**
 Creating a deep learning model capable of adapting an existing work to resemble the aesthetic of any art.\
 The model is able to analyze the artistic style of the selected art and apply similar stylistic features to a new, original artwork, creating a piece that seems as though it could have been created by the artist themselves.\
 \
 \
-##**Some examples**
+## **Some examples**
 \
 <img width="687" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/415a2371-d618-494b-b6e4-baceed1494f0">
 \
+
 <img width="682" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/c2d9bdf1-8b1f-4b53-b71d-907ff45a9265">
 \
+
 <img width="689" alt="image" src="https://github.com/AryanTag/Dashtoon_20065025/assets/77772515/6477654e-67cf-40c0-aa17-53a389009c00">
 \
+
 ## **Installing dependencies**-
   ### 1. TENSORFLOW (This library is a machine learning library for developing and deploying deep learning models)
 \
@@ -29,7 +32,7 @@ The model is able to analyze the artistic style of the selected art and apply si
 \
 		*Installation*: PIL.Image can be installed using pip: 'pip install Pillow'
 \
-\
+
 ## Setting up and running notebook-
   ### 1. For running the notebook, you'll require a dataset. An example dataset I have shared which can be accessed by the google drive link below-
  \
@@ -45,10 +48,10 @@ The model is able to analyze the artistic style of the selected art and apply si
 			24-11-2023  20:38    <DIR>          style_train
 	
 
-  4. Now, run all of the cells in the notebooks which will run one by one, and see the style-transfer-goodness. :)
+  ### 4. Now, run all of the cells in the notebooks which will run one by one, and see the style-transfer-goodness. :)
 \
 \
-\
+
 ============================================================
 Aryan Tyagi
 20065025
